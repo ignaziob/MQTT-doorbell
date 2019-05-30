@@ -5,6 +5,7 @@ E2E projectdetails are available in the repository. Project is based on Raspberr
 
 Raspberry PI 3B+
 ================
+- Step by step guide to remotely connect to your Raspberry
 - Starting from an existing 12V AC wired bell, explained how to add the right passive (diode + resistor) to interface with Raspberry GPIO input.
 - configuration of a commercial MQTT server
 - Python code reads the GPIO input and publish a "bell" MQTT topic 
